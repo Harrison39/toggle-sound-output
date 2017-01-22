@@ -1,5 +1,5 @@
 #!/usr/bin/osascript
-with input as {query}
+
 tell application "System Preferences"
 	activate
 	set current pane to pane "com.apple.preference.sound"
