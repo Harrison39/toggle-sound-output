@@ -1,4 +1,3 @@
-```
 tell application "System Preferences"
 	activate
 	set current pane to pane "com.apple.preference.sound"
@@ -27,4 +26,3 @@ tell application "System Events"
 end tell
 tell application "System Preferences" to quit
 return deviceselected
-```
